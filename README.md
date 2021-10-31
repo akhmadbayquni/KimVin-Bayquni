@@ -1,4 +1,4 @@
 # KimVin-Bayquni
 Aplikasi Sederhana
 
-API /api.php?get_menu
+API-Native /pos3/api.php?function=get_menu
